@@ -1,0 +1,28 @@
+.img{
+    width: 1465px;
+}
+.border{
+    margin-left: 630px;
+    padding: 25px;
+    width: 170px;
+}
+
+.pass{
+    margin-left: 630px;
+    padding: 25px;
+    width: 190px;
+}
+.BTN{
+    margin-left:700px ;
+}
+@media (max-width:400px){
+    .img{
+        width: 383px;
+    }
+    .border{
+        margin-left: 105px;
+    }
+    .BTN{
+        margin-left: 170px;
+    }
+}
